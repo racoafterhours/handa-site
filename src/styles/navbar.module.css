@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+.NavBar {
+    padding: 20px;
+    display: flex;
+    background-color: white;
+}
+
+
+.LogoBlock {
+    display: flex;
+    margin-right: auto;
+    vertical-align: center;
+    padding: 12px;
+}
+
+.Logo {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    margin: 12px;
+}
+
+.Title {
+    display: flex;
+    font-size: 48px;
+    font-family: 'Quicksand', sans-serif;
+    vertical-align: center;
+    margin: auto;
+}
+
+.Lang{
+    display:flex;
+    gap: 5px;
+}
+.LangEn {
+    width: 25px;
+    height: 20px;
+    display: flex;
+}
+
+
+.LinkBlock{
+    vertical-align: center;
+    margin-left: auto;
+    padding: 40px;
+    font-size: medium;
+    display: flex;
+    justify-self: right;
+    align-items: center;
+    gap: 20px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Link{
+    text-decoration: none;
+    color: black;
+}
+
+

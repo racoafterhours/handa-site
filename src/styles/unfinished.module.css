@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+.Page{
+    padding: 80px;
+    display: flex;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Wrench{
+    margin: 36px;
+    width: 128px;
+    height: 128px;
+}
