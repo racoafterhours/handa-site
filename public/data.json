@@ -1,0 +1,1660 @@
+{
+    "reg1": {
+        "name": "Pael Subdivision",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 3,
+            "fire": 3,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "Pael Subdivision is an area consisting of houses and few buildings. This makes the area susceptible to fire as the houses are close together. Additionally, the area is also at high risk when it comes to flooding and earthquakes.",
+            "flooding": [
+                "Listen to local news in the area.",
+                "Be ready to evacuate if there are signs of flooding.",
+                "Secure your home and turn off the power in the house."
+            ],
+            "fire": [
+                "Do not leave flammable things unattended.",
+                "Make sure to prepare fire extinguishers and contacts of emergency units.",
+                "Ensure there are emergency exits in your house."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "Stay in the building and find a sturdy hiding place (i.e. tables, bed).",
+                "If outside, move to an open area away from buildings, windows, and trees."
+            ]
+        }
+    },
+    "reg2": {
+        "name": "Pook Arboretum",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty",
+                    "uprooted big tree"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 3,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "Pook Arboretum is an area consisting of trees and vegetations. Furthermore, the area has inclined elevation which makes the soil unstable during earthquakes. Moreover, the area is highly susceptible to flooding.",
+            "flooding": [
+                "Avoid moving streams of water.",
+                "Tread the water carefully to avoid sudden drops.",
+                "If trapped, wait for rescuers."
+            ],
+            "fire": [
+                "Contact local authorities when there are signs of fire in the area."
+            ],
+            "ground shaking": [
+                "Move to an open area away from trees or electrical poles.",
+                "When in a vehicle, move to an open area on the side of the road and stop.",
+                "Avoid going to area with unstable inclined soil."
+            ]
+        }
+    },
+    "reg3": {
+        "name": "UP Ayala Land Technohub",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "UP Ayala Land Technohub is a low-density complex. Mostly consists of small buildings and businesses for technology hub. The buildings are highly susceptible to ground shaking.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Tread the water carefully."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "When in a building, move away from windows and outside walls.",
+                "Do not use elevators and stay put.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg4": {
+        "name": "UP College of Human Kinetics",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP College of Human Kinetics is a low-density complex. The buildings are sparsely scattered and there are nearby trees and vegetation in the area.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "When in a building, move away from windows and outside walls.",
+                "Practice duck, cover, and hold.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg5": {
+        "name": "UP Track Oval",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP Track Oval is a fairly open area with few vegetations and small buildings around it. It is recommended to move to the oval when earthquakes or fires occur.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water.",
+                "Thread the water carefully and look out for sudden drops."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "When in a building, move away from windows and outside walls.",
+                "Practice duck, cover, and hold.",
+                "If outside, move to the oval."
+            ]
+        }
+    },
+    "reg6": {
+        "name": "Pook Dagohoy, Palaris & Ricarte",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09",
+                "details": [
+                    "flooding in Pook Palaris"
+                ]
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": [3, "Pook Palaris & Pook Ricarte"],
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "Pook Dagohoy, Pook Palaris, and Pook Ricarte are all high-density residential areas. This makes the areas highly susceptible to fire. Since the area is also at a lower elevation, the region is also susceptible to flooding.",
+            "flooding": [
+                "Listen to local news in the area.",
+                "Be ready to evacuate if there are signs of flooding.",
+                "Secure your home and turn off the power in the house."
+            ],
+            "fire": [
+                "Do not leave flammable things unattended.",
+                "Make sure to prepare fire extinguishers and contacts of emergency units.",
+                "Ensure there are emergency exits in your house."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "Stay in the building and find a sturdy hiding place (i.e. tables, bed).",
+                "If outside, move to an open area away from buildings, windows, and trees."
+            ]
+        }
+    },
+    "reg7": {
+        "name": "UP College of Engineering",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP College of Engineering is a low-density complex with open areas. The complex is also surrounded by vegetations and trees sparsely. Since it is in a lower elevation, the area is susceptible to flooding.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "When in a building, move away from windows and outside walls.",
+                "Practice duck, cover, and hold.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg8": {
+        "name": "UP College of Law + UP College of Economics",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP College of Law and UP School of Economics are low-density complexes with open areas. It is also nearby the Sunken Garden which can be used as evacuation area when there is fire or earthquakes.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "When in a building, move away from windows and outside walls.",
+                "Practice duck, cover, and hold.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg9": {
+        "name": "UP Academic Oval + Sunken Garden",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 3,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP Academic Oval and Sunken Garden are open areas. They are generally the evacuation sites for adjacent areas.",
+            "flooding": [
+                "Be ready to seek higher ground along the upper banks of the Sunken Garden or along the sidewalks.",
+                "Avoid moving streams of water.",
+                "Thread the water carefully to avoid sudden drops.",
+                "If stuck, wait for rescuers."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Avoid falling debris from trees or wooden posts."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "Look out for falling trees, posts and moving vehicles if any.",
+                "If near buildings, move to an open area immediately after shaking."
+            ]
+        }
+    },
+    "reg10": {
+        "name": "University Avenue",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "UP Diliman University Avenue is an open area. It is surrounded by vegetation and light posts.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water.",
+                "Seek higher ground along the sidewalks, the isle or in front of the Quezon Hall."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Look out for falling debris from burning trees, posts, etc.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "Look out for falling trees, posts and moving vehicles if any.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg11": {
+        "name": "Palma Hall + UP College of Education",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The Palma Hall and UP College of Education are low-density complexes with open areas. They are also near the Sunken Garden which can be used as an evacuation area when there are fires or earthquakes.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg12": {
+        "name": "UP Diliman Grounds + Villages A & B",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": [3, "Village A & Village B"],
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "UP Diliman Grounds, Village A & Village B are high density complexes with settlements surrounded by vegetation.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water.",
+                "Secure your home and turn off the power in the house."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate.",
+                "If indoors, immediately go outside."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg13": {
+        "name": "UP Institute of Civil Engineering + UP Alumni Engineers Centennial Hall",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "UP Institute of Civil Engineering and UP Alumni Engineers Centennial Hall are low density complexes with nearby open areas (parking lots, roads, etc.).",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate.",
+                "If indoors, immediately go outside."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to nearby open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg14": {
+        "name": "National Science Complex",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The National Science Complex is a low density complex with nearby open areas (parking lots, roads, sidewalks, etc.).",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water.",
+                "If trapped, wait for rescuers."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate.",
+                "If indoors, immediately go outside."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to nearby open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg15": {
+        "name": "UP Town Center",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09"
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 1,
+            "fire": 1,
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "The UP Town Center  is a high density complex with nearby open areas (parking lots, roads, sidewalks, etc.). Be aware of evacuation routes and sites to avoid confusion.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Avoid moving streams of water.",
+                "If trapped, wait for rescuers."
+            ],
+            "fire": [
+                "Contact local emergency units when there are signs of fire in the area.",
+                "Be ready to evacuate."
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to nearby open areas away from buildings and trees."
+            ]
+        }
+    },
+    "reg16": {
+        "name": "Pook C.P. Garcia, Daan Tubo & Libis",
+        "history": [
+            {
+                "name": "Bagyong Ondoy",
+                "date-from": "2009-09-24",
+                "date-to": "2009-09-27",
+                "details": [
+                    "flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Falcon",
+                "date-from": "2011-06-20",
+                "date-to": "2011-06-27"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2011-06-25",
+                "date-to": "2011-06-25"
+            },
+            {
+                "name": "Bagyong Lando",
+                "date-from": "2011-08-02",
+                "date-to": "2011-08-02"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-06-18",
+                "date-to": "2012-06-18"
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2012-09",
+                "date-to": "2012-09",
+                "details": [
+                    "flooding in Pook C.P. Garcia & Pook Daan Tubo"
+                ]
+            },
+            {
+                "name": "Bagyong Glenda",
+                "date-from": "2014-07-10",
+                "date-to": "2014-07-20",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees and electric posts"
+                ]
+            },
+            {
+                "name": "Bagyong Mario",
+                "date-from": "2014-09-17",
+                "date-to": "2014-09-25",
+                "details": [
+                    "flash flooding"
+                ]
+            },
+            {
+                "name": "Bagyong Ompong",
+                "date-from": "2018-09-07",
+                "date-to": "2018-09-17",
+                "details": [
+                    "strong winds",
+                    "uprooted big trees"
+                ]
+            },
+            {
+                "name": "Habagat",
+                "date-from": "2019-08-09",
+                "date-to": "2019-08-11",
+                "details": [
+                    "strong winds and rain",
+                    "1 casualty"
+                ]
+            },
+            {
+                "name": "Bagyong Tisoy",
+                "date-from": "2019-12-02",
+                "date-to": "2019-12-04",
+                "details": [
+                    "evacuation"
+                ]
+            }
+        ],
+        "hazards": {
+            "flooding": 2,
+            "fire": [1, "Pook Daan Tubo & Pook Libis"],
+            "ground shaking": 3
+        },
+        "recommendations": {
+            "description": "Pook C.P. Garcia, Pook Daan Tubo, and Pook Libis are all high-density residential areas. These areas are highly susceptible to fire. They are also susceptible to flooding due to having a lower elevation.",
+            "flooding": [
+                "Be ready to evacuate if there are signs of flooding.",
+                "Secure your home and turn off the power in the house."
+
+            ],
+            "fire": [
+                "Avoid placing flammable objects to potential heat/fire sources.",
+                "Prepare fire extinguishers and contacts of fire.emergency units.",
+                "Immediately evacuate outside, covering the mouth and nose, where there are signs of fire."
+
+            ],
+            "ground shaking": [
+                "Practice duck, cover, and hold.",
+                "Stay put and find a sturdy hiding place (i.e. tables, bed).",
+                "If indoors, move away from windows and outside walls.",
+                "If outside, move to an open area away from buildings, windows, and trees."
+            ]
+        }
+    }
+}

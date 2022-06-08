@@ -1,30 +1,8 @@
-# HANDA Official Site Repository
-
-This repository houses all assets for the HANDA Website. Code can be accessed in the `src` folder, and contains the following files and folders:
-
-### `App.js` and `App.css`
-Contains the main JavaScript code and CSS styling for the React app.
-
-### `index.js` and `index.css`
-Contains the methods and styling for rendering the app onto the site.
-
-### `assets`
-Contains any images or media to be used by any of the other JavaScript files. You can import and reference files from here using the filepath `../assets/filename`.
-
-### `components`
-Contains ReactJS components that are used for the basic functionality of the site. You can import and reference files from here using the filepath `../components/filename`.
-
-### `pages`
-Contains the site pages. You can import and reference files from here using the filepath `../pages/filename`.
-
-### `styles`
-Contains CSS stylesheets for both components and pages. You can import and reference files from here using the filepath `../styles/filename`.
-
-
-
-# Available Scripts
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -60,3 +38,33 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -1,0 +1,409 @@
+$blue: #0038a8;
+$red: #ce1126;
+$yellow: #fcd116;
+
+html, body, #root {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	color: rgb(30, 30, 60);
+	background: rgb(245, 245, 245);
+}
+
+* {
+	box-sizing: border-box;
+	font-family: "Plus Jakarta Sans";
+}
+
+#container {
+	width: 100%;
+	height: 100%;
+}
+
+#content {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	grid-template-rows: 4rem calc(100% - 4rem);
+}
+
+#topbar {
+	width: 100%;
+	background: $blue;
+	color: white;
+	display: flex;
+	padding: 0.75rem;
+	gap: 1rem;
+	
+	& button {
+		align-self: center;
+		justify-self: end;
+		background: none;
+		transition: text-decoration-color 0.1s;
+		border-radius: 0.25rem;
+		font-size: 1rem;
+		border: none;
+		color: white;
+		cursor: pointer;
+		padding: 0.25rem 0.5rem;
+		text-decoration: underline;
+		text-decoration-thickness: 1.5px;
+		text-decoration-color: $blue;
+		text-underline-offset: 2.5px;
+
+		&#topbar-logo {
+			display: flex;
+			align-items: center;
+			flex-direction: row;
+			margin-right: auto;
+
+			& span {
+				font-size: 1.5rem;
+				font-weight: 800;
+			}
+		
+			& img {
+				margin-right: 0.75rem;
+			}
+		}
+		
+		&.active {
+			font-weight: bold;
+		}
+		
+		&:hover:not(:first-child) {
+			text-decoration-color: white;
+		}
+		
+		&.active {
+			background: white;
+			color: $blue;
+			text-decoration-color: white;
+			
+			&:hover {
+				text-decoration-color: $blue;
+			}
+		}
+	}
+}
+
+#logo {
+	height: 1.5rem;
+}
+
+main {
+	display: grid;
+	grid-template-columns: 40% 60%;
+	grid-template-rows: 100%;
+	align-items: center;
+	justify-items: center;
+	height: 100%;
+	width: 100%;
+	
+	& > div {
+		width: 100%;
+		height: 100%;
+		display: grid;
+		align-items: center;
+		justify-items: center;
+	}
+}
+
+#reg-hover-name {
+	background: $red;
+	border-radius: 0 3rem 3rem 0;
+	color: white;
+	font-weight: bolder;
+	padding: 2rem 2rem 2rem 3rem;
+	width: 100%;
+	min-height: 30%;
+	max-height: 70%;
+	overflow-y: auto;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+
+	& h1 {
+		width: 100%;
+		font-size: 2.5rem;
+
+		&.placeholder {
+			font-size: 2rem;
+			font-weight: lighter;
+			font-style: italic;
+		}
+	}
+}
+
+#map {
+	width: 90%;
+	max-height: 75%;
+}
+
+#map-img {
+	filter: grayscale(1) brightness(150%);
+}
+
+.map-reg {
+	transition: fill 0.15s;
+	mix-blend-mode: multiply;
+	fill: #aaa;
+	cursor: pointer;
+
+	&:hover {
+		fill: lighten($red, 20%);
+	}
+
+	&.selected {
+		fill: lighten($yellow, 20%);
+	}
+}
+
+#map-divisions path {
+	stroke: rgb(245, 245, 245);
+	stroke-width: 2.5px;
+	fill: none;
+}
+
+#reg-name {
+	font-size: 2.5rem;
+	font-weight: 800;
+	padding-left: 3rem;
+	padding-bottom: 0.5rem;
+	margin-top: 0;
+	margin-bottom: 1rem;
+	color: $red;
+	font-style: italic;
+	border-bottom: 3px solid $red;
+}
+
+#reg-info-panel {
+	width: 100%;
+	height: auto;
+	max-height: 70%;
+	display: flex;
+	flex-direction: column;
+	overflow-y: auto;
+}
+
+#reg-info {
+	overflow-y: auto;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	padding-right: 1rem;
+	scrollbar-color: rgb(30, 30, 60, 25%) transparent;
+	scrollbar-width: thin;
+
+	&::-webkit-scrollbar {
+		width: 5px;
+		height: 5px;
+	}
+
+	&::-webkit-scrollbar-thumb {
+		border-radius: 5px;
+		background: rgb(30, 30, 60, 25%);
+
+		&:hover {
+			background: rgb(30, 30, 60, 50%);
+		}
+	}
+	
+	& div h1 {
+		padding: 1rem 2rem 1rem 3rem;
+		margin: 0;
+		border-radius: 0 1.5rem 1.5rem 0;
+		position: sticky;
+		top: 0;
+	}
+
+	& div div {
+		margin: 0rem 1.5rem 0 2.5rem;
+	}
+	
+	& .entry {
+		padding: 0.5rem 0.5rem;
+
+		&:last-child {
+			padding: 0.5rem 0.5rem 0 0.5rem
+		}
+
+		&:not(:last-child) {
+			border-bottom: 1.5px solid currentColor;
+		}
+		
+		& h2, & h3, & ul {
+			margin-top: 0.5rem;
+			margin-bottom: 0.5rem;
+		}
+	
+		& h3 {
+			font-style: italic;
+		}
+	}
+
+	& #recommendations {
+		& > :not(h1) {
+			margin-left: 3rem;
+			margin-right: 1.5rem;
+		}
+
+		& .rec-filler {
+			font-style: italic;
+		}
+
+		& h2 {
+			margin-bottom: 0.5rem;
+		}
+
+		& ul {
+			margin-top: 0.5rem;
+		}
+
+		& h2 svg {
+			margin-right: 0.5rem;
+		}
+
+		& .description {
+			font-weight: 500;
+		}
+	}
+	
+	& #history h1 {
+		background: $red;
+		color: white;
+	}
+
+	& #hazards h1 {
+		background: $blue;
+		color: white;
+	}
+
+	& #recommendations h1 {
+		background: $yellow;
+	}
+}
+
+#hazard-wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr;
+	padding: 1.5rem 0 0.5rem 0;
+
+	& .hazard {
+		display: flex;
+		flex-direction: column;
+		justify-items: center;
+		align-items: center;
+		text-align: center;
+
+		& p {
+			margin-bottom: 0;
+		}
+	}
+
+	& .risk-3 path, & .risk-2 path, & .risk-1 path {
+		transition: fill 0.1s;
+	}
+	
+	& b.risk-3, & b.risk-2, & b.risk-1 {
+		transition: color 0.1s;
+	}
+
+	& .risk-3 path {
+		fill: $red;
+	}
+
+	& .risk-2 path {
+		fill: $yellow;
+	}
+
+	& .risk-1 path {
+		fill: $blue;
+	}
+
+	& b.risk-3 {
+		color: $red;
+	}
+
+	& b.risk-2 {
+		color: $yellow;
+	}
+
+	& b.risk-1 {
+		color: $blue;
+	}
+
+	& .hazard-sub {
+		font-size: smaller;
+		font-style: italic;
+	}
+}
+
+#wait {
+	font-style: italic;
+	font-weight: bold;
+}
+
+#modal-container {
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+	z-index: 1;
+
+	& #modal-background {
+		height: 100%;
+		width: 100%;
+		background: rgba(0, 0, 0, 0.25);
+	}
+
+	& #modal-main {
+		padding: 2rem;
+		background: rgb(245, 245, 245);
+		border-radius: 3rem;
+		box-shadow: 2.5px 2.5px 5px rgba(0, 0, 0, 0.2);
+		position: fixed;
+
+		& h1 {
+			font-weight: 800;
+			font-size: 3rem;
+			display: flex;
+			justify-items: center;
+			margin-top: 0;
+
+			& span {
+				margin-left: 1rem;
+			}
+		}
+
+		& #modal-close {
+			font-weight: 800;
+			font-size: 3rem;
+			background: none;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			top: 0.5rem;
+			right: 1.5rem;
+
+			&:hover {
+				color: $red;
+			}
+		}
+	}
+}
+
+a {
+	color: $blue;
+
+	&:hover {
+		color: lighten($blue, 20%);
+	}
+}
