@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/handa-site/static/css/main.563b6d02.css",
+    "main.css": "/handa-site/static/css/main.9234375b.css",
     "main.js": "/handa-site/static/js/main.40ae2f21.js",
     "static/js/787.1a03673e.chunk.js": "/handa-site/static/js/787.1a03673e.chunk.js",
     "index.html": "/handa-site/index.html",
-    "main.563b6d02.css.map": "/handa-site/static/css/main.563b6d02.css.map",
+    "main.9234375b.css.map": "/handa-site/static/css/main.9234375b.css.map",
     "main.40ae2f21.js.map": "/handa-site/static/js/main.40ae2f21.js.map",
     "787.1a03673e.chunk.js.map": "/handa-site/static/js/787.1a03673e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.563b6d02.css",
+    "static/css/main.9234375b.css",
     "static/js/main.40ae2f21.js"
   ]
 }
