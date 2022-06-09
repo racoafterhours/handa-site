@@ -271,6 +271,33 @@ main {
 			font-weight: 500;
 		}
 	}
+
+	& #contact {
+		& > :not(h1) {
+			margin-left: 3rem;
+			margin-right: 1.5rem;
+		}
+
+		& .rec-filler {
+			font-style: italic;
+		}
+
+		& h2 {
+			margin-bottom: 0.5rem;
+		}
+
+		& ul {
+			margin-top: 0.5rem;
+		}
+
+		& h2 svg {
+			margin-right: 0.5rem;
+		}
+
+		& .description {
+			font-weight: 500;
+		}
+	}
 	
 	& #history h1 {
 		background: $red;
@@ -288,6 +315,7 @@ main {
 
 	& #contact h1 {
 		background: $black;
+		color: white;
 	}
 }
 
