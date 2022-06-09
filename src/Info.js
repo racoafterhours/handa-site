@@ -134,7 +134,7 @@ class Info extends React.Component {
                     </div>
                     <div id="contact">
                         <h1>Contact Information</h1>
-                        <b>Barangay UP Campus</b>
+                        <h2>Barangay UP Campus</h2>
                         <ul>
                             <li>(8) 426-9779 (Pook Amorsolo)</li>
                             <li>(8) 641-6636 (Pook Dagohoy)</li>
